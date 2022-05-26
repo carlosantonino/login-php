@@ -11,3 +11,4 @@
     } catch (PDOException $err) {
         // echo "Erro: Não conseguiu realizar a conexão";
     }
+
